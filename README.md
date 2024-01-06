@@ -16,7 +16,7 @@ This dashboard is designed using Dash, a Python framework for building analytica
 ### Installation
 - Clone this repository:
   ```bash
-  git clone <repository-url>
+  git clone https://github.com/ibrahim21124/Airline-Delay-Analysis
 - Navigate to the project directory:
   ```bash
   cd dashboard-dash-python
