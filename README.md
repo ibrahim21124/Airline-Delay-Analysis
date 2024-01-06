@@ -3,10 +3,10 @@
 This dashboard is designed using Dash, a Python framework for building analytical web applications. It provides a user-friendly interface to visualize data and interact with it.
 
 ## Features
-**Data Visualization**: Utilizes Plotly for interactive and insightful data visualizations.
-**Responsive Layout**: Designed with responsiveness in mind, ensuring a seamless experience across devices.
-**User Interaction**: Offers various interactive components like dropdowns, sliders, and input fields to allow users to manipulate and explore the data.
-**Customization**: Easily customizable components to suit specific data visualization needs.
+- **Data Visualization**: Utilizes Plotly for interactive and insightful data visualizations.
+- **Responsive Layout**: Designed with responsiveness in mind, ensuring a seamless experience across devices.
+- **User Interaction**: Offers various interactive components like dropdowns, sliders, and input fields to allow users to manipulate and explore the data.
+- **Customization**: Easily customizable components to suit specific data visualization needs.
 
 ## Getting Started
 ### Prerequisites
