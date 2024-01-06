@@ -14,9 +14,15 @@ This dashboard is designed using Dash, a Python framework for building analytica
 - Dependencies listed in requirements.txt
 
 ### Installation
-- Clone this repository: git clone <repository-url>
-- Navigate to the project directory: cd dashboard-dash-python
-- Install dependencies: pip install -r requirements.txt
+- Clone this repository:
+  ```bash
+  git clone <repository-url>
+- Navigate to the project directory:
+  ```bash
+  cd dashboard-dash-python
+- Install dependencies:
+  ```bash
+  pip install -r requirements.txt
 - Running the Dashboard
 - Execute the following command to run the dashboard:
   ```bash
@@ -28,8 +34,8 @@ This dashboard is designed using Dash, a Python framework for building analytica
 Contributions are welcome! If you have suggestions, feature requests, or find any issues, please create an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-Dash by Plotly: [https://dash.plotly.com/]
-Plotly: [https://plotly.com/python/]
+Dash by Plotly: https://dash.plotly.com/
+Plotly: https://plotly.com/python/
